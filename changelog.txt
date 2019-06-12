@@ -1,3 +1,5 @@
 # 12 June 2019
 
+    * http://unknown-mind.surge.sh/
+    * npm run build
     * Initial Upload to GitHub
